@@ -55,6 +55,8 @@ p {
     background-color: #266cbc;
   }
 
+  /* Responsive styles for smaller screens */
+
   @media (max-width: 600px) {
     textarea {
       height: 120px;
