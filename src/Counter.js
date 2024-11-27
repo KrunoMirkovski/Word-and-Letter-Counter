@@ -18,7 +18,7 @@ function Counter() {
         onChange={handleTextChange}
         value={text}
         rows={5}
-        cols={50}
+        cols={56}
       />
       <div className="counterBox">
         <p>Word Count: {wordCount}</p>
