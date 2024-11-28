@@ -1,6 +1,7 @@
 # Words and Letters Counter App
 
-    This is a simple React-based web application that allows users to count the number of words and letters in a text input. It is designed to be user-friendly, responsive, and modern, utilizing React for interactivity and      clean CSS for styling.
+    This is a simple React-based web application that allows users to count the number of words and letters in a text input. 
+    It is designed to be user-friendly, responsive, and modern, utilizing React for interactivity and clean CSS for styling.
     
 # Features
 
